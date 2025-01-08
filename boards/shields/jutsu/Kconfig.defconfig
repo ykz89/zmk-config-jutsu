@@ -1,0 +1,6 @@
+if JUTSU
+
+config ZMK_KEYBOARD_NAME
+    default "Jutsu"
+
+endif
